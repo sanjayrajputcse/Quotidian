@@ -1,0 +1,1 @@
+include ':PhotoOfTheDay', ':MiniatureCalender', ':QuotidianLib'
